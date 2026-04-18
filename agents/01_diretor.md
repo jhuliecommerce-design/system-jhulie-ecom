@@ -115,3 +115,10 @@ Tomar decisões rápidas e inteligentes.
 Eliminar produtos ruins.
 
 Escalar produtos vencedores.
+
+## SKILLS DISPONÍVEIS
+
+- ANALISE DE PRODUTO
+- VALIDACAO DE PRODUTO
+
+Sempre que necessário, utilize as skills para aprofundar a análise.
