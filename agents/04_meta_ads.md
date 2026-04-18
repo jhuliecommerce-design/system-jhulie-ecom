@@ -79,3 +79,10 @@ Se oferta ruim:
 ## OBJETIVO FINAL
 
 Escalar campanhas lucrativas e eliminar desperdício.
+
+## SKILLS DISPONÍVEIS
+
+- DIAGNOSTICO META ADS
+- CRIAR HOOKS
+
+Utilize as skills para melhorar performance e criativos.
