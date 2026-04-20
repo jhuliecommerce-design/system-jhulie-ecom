@@ -1,40 +1,48 @@
 # Como usar o sistema de agentes
 
-Você não está acessando prompts.
+Você não está usando IA.
 
-Você está acessando um sistema de operação.
-
-Cada agente representa um especialista da sua operação de ecommerce.
+Você está operando um sistema.
 
 ---
 
-## Como usar na prática
+## Como funciona
 
-### 1. Escolha o agente certo
+Cada agente é um especialista da operação.
+
+Você interage com ele como se estivesse falando com um membro do seu time.
+
+---
+
+## Passo a passo
+
+### 1. Escolha o agente
 
 Exemplos:
 
-* Meta Ads → análise de campanhas
-* Google Ads → estrutura e escala
-* Produtos → validação de produto
-* SAC → atendimento ao cliente
-* Métricas → análise da loja
+* Meta Ads → campanhas
+* Google Ads → tráfego
+* Produtos → validação
+* SAC → atendimento
+* Métricas → análise
 
 ---
 
 ### 2. Dê contexto
 
-Os agentes NÃO funcionam sem dados.
-
 Sempre envie:
 
-* descrição do problema
-* métricas (se tiver)
-* print ou dados relevantes
+* problema claro
+* dados reais
+* métricas (quando possível)
 
-Exemplo:
+---
 
-"Minha campanha está com ROAS 1.3, CPC alto e poucas compras"
+### Exemplo
+
+```text
+Minha campanha está com CPC alto e poucas compras
+```
 
 ---
 
@@ -42,53 +50,69 @@ Exemplo:
 
 Abra o Claude
 
-Cole o conteúdo do agente
+Cole o agente
 
-E envie junto com seu contexto
-
----
-
-### 4. Interprete a resposta
-
-Os agentes foram treinados para responder com:
-
-* Diagnóstico
-* Problema principal
-* Ação recomendada
-* Próximos passos
+Envie com seu contexto
 
 ---
 
-## Regra mais importante
+### 4. Siga a resposta
 
-Agente bom + contexto ruim = resposta ruim
+Os agentes respondem com:
 
-Agente bom + contexto bom = resultado forte
-
----
-
-## Como pensar
-
-Você está usando IA como um time.
-
-* Diretor → estratégia
-* Gestor → análise
-* Especialistas → execução
+* diagnóstico
+* problema principal
+* ação recomendada
+* próximos passos
 
 ---
 
-## Comece simples
+## Exemplo real
 
-Não tente automatizar tudo.
+### Input:
 
-Primeiro use manualmente.
+"Where is my order? I ordered 10 days ago"
 
-Depois evolua para integrações e automação.
+### Output:
+
+Resposta profissional pronta para envio ao cliente
 
 ---
 
-## Objetivo final
+## Como evoluir
 
-Tomar decisões melhores
-Executar mais rápido
-Escalar com mais consistência
+### Nível 1
+
+Uso manual
+
+### Nível 2
+
+Uso com dados reais e frequência
+
+### Nível 3
+
+Integração e automação
+
+---
+
+## Erros comuns
+
+* usar sem contexto
+* testar com dados fictícios
+* não executar o que foi sugerido
+
+---
+
+## Mentalidade correta
+
+Você não está perguntando.
+
+Você está delegando.
+
+---
+
+## Objetivo
+
+* reduzir erro
+* aumentar velocidade
+* escalar com consistência
